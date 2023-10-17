@@ -1,4 +1,4 @@
-from ml_facepoints.base import NAME
+from ml_facepoints.dataset import NAME
 
 
 def test_base():
